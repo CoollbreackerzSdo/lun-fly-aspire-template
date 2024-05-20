@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Ralber Rosario",
+  "classifications": [ "Web", "Aspire" ],
+  "identity": "LunFly.CSharp",
+  "name": "Aspire Base",
+  "shortName": "lun-fly",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "generatorVersions": "[1.0.0.0-*)",
+  "description": "Proyecto de aspire base con mínimos requisitos"
+}
